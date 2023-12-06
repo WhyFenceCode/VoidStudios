@@ -5,7 +5,7 @@
 
 .desktopHeader { 
   position: absolute;
-  top: 3%;
+  top: 3vh;
   width: 100%;
   height: 10%;
   display: grid;

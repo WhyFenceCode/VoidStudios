@@ -22,7 +22,7 @@
   grid-area: desktopLogo; 
   background: url(images/logos/mainlogo.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 
 .desktopLinks { 

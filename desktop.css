@@ -18,7 +18,11 @@
     ". desktopLogo . desktopLinks .";
 }
 
-.desktopLogo { grid-area: desktopLogo; }
+.desktopLogo { 
+  grid-area: desktopLogo; 
+}
 
-.desktopLinks { grid-area: desktopLinks; }
+.desktopLinks { 
+  grid-area: desktopLinks; 
+}
 

@@ -21,6 +21,18 @@ body {
     animation: zoom 30s alternate infinite;
 }
 
+.boxlink {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  background-color: white;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
 @keyframes zoom {
     0%{
         transform: scale(1);

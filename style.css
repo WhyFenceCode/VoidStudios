@@ -52,6 +52,12 @@ body {
   line-height: 40px;
 }
 
+.titleText {
+  font-weight: bold;
+  font-size: 3em;
+  color: white;
+}
+
 @keyframes zoom {
     0%{
         transform: scale(1);

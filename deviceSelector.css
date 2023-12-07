@@ -24,12 +24,15 @@
 
 /* For screens less than 400px wide */
 @media only screen and (max-width: 449px) {
-    .desktop, .tablet {
+    .mobile, .desktop {
         display: none;
     }
-    .mobile {
+    .tablet {
         display: block;
         width: 100vw;
         height: 100vh;
+    }
+    .titleText {
+        font-size: 4em;
     }
 }

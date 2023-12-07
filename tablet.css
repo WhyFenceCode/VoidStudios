@@ -5,7 +5,7 @@
 
 .tabletHeader { 
   position: absolute;
-  bottom: 2vh;
+  bottom: 0vh;
   width: 100%;
   height: 12vh;
   display: grid;

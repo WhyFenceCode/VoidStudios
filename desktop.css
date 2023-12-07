@@ -27,5 +27,6 @@
 
 .desktopLinks { 
   grid-area: desktopLinks; 
+  display: flex;
 }
 

@@ -35,4 +35,12 @@
     .titleText {
         font-size: 3em;
     }
+    .boxlink {
+        margin-right: 7px;
+        margin-left: 7px;
+    }
+    .link {
+        margin-right: 7px;
+        margin-left: 7px;
+    }
 }

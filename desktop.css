@@ -30,3 +30,7 @@
   display: flex;
 }
 
+.desktopTitle {
+  width: 80%;
+  height: 30%;
+}

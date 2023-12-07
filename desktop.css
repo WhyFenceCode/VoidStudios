@@ -20,7 +20,7 @@
 
 .desktopLogo { 
   grid-area: desktopLogo; 
-  background: url(images/logos/mainlogo.png);
+  background: url(images/logos/cropedlogo.png);
   background-repeat: no-repeat;
   background-size: contain;
 }

@@ -33,4 +33,6 @@
 .desktopTitle {
   width: 80%;
   height: 30%;
+  position: absolute;
+  top: 13vh;
 }

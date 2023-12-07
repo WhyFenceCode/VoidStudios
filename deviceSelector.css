@@ -38,9 +38,13 @@
     .boxlink {
         margin-right: 7px;
         margin-left: 7px;
+        padding-left: 3px;
+        padding-right: 3px;
     }
     .link {
         margin-right: 7px;
         margin-left: 7px;
+        padding-left: 3px;
+        padding-right: 3px;
     }
 }

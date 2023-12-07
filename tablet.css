@@ -30,3 +30,10 @@
   bottom: 21vh;
   left: 7vw;
 }
+
+.upperLogo {
+  width: 60%;
+  height: 15vh;
+  position: absolute;
+  top: 2vh;
+}
